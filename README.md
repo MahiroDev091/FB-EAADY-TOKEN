@@ -3,7 +3,6 @@ Get your fb token - NOT FOR SALE
 
 - Work in both replit and termux (terminal)
 - Support any terminal
-- Developed by Mahiro chan (You don't have any permission to take the credit.)
 - Python3
 
 # SCREENSHOT IMAGE
