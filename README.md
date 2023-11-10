@@ -5,7 +5,7 @@ Get your fb token - NOT FOR SALE
 - Support any terminal
 - Python3
 
-# SCREENSHOT IMAGE
+# 📎SCREENSHOT IMAGE
 <image src="IMG_20231110_182212.JPG">
 
 # 🗃HOW TO RUN THE SCRIPT?
