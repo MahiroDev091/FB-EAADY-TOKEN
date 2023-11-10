@@ -1,8 +1,9 @@
 # 🎫FB-EAADY-TOKEN
 Get your fb token - NOT FOR SALE
 
-- Work in both replit and termux (terminal)
-- Support any terminal
+- Work in both replit and termux (terminal).
+- FBfollow and SPAMShare Supported.
+- Support any terminal.
 - Python3
 
 # 📎SCREENSHOT IMAGE
