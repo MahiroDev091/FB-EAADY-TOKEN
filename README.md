@@ -2,7 +2,7 @@
 Get your fb token - NOT FOR SALE
 
 - Work in both replit and termux (terminal).
-- FBfollow and SPAMShare Supported.
+- Fbfollow and Spamshare Supported.
 - Support any terminal.
 - Python3
 
